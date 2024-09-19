@@ -1,7 +1,6 @@
 # Kaggle learning repository
 
-[Kaggle platform](https://www.kaggle.com/)
-[Miguel Fraga Kaggle profile](https://www.kaggle.com/mpfraga98)
+[Kaggle platform](https://www.kaggle.com/) / [Miguel Fraga Kaggle profile](https://www.kaggle.com/mpfraga98)
 
 Create an environment with [venv](https://docs.python.org/3/library/venv.html):
 ```
