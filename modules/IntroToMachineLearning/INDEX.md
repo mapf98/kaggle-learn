@@ -9,3 +9,5 @@
 7. model-head-predictions.py
 8. model-mae.py
 9. model-mae-train-val.py
+10. model-underfitting-overfitting.py
+11. model-random-forest.py
